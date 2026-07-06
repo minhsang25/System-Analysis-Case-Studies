@@ -18,7 +18,7 @@ Complete business and system analysis documentation can be found here:
 
 | Document Title | File Link | Description |
 | :--- | :--- | :--- |
-| **Business & System Analysis** | [📄 English_Exam_Practice_System_Business_and_System_Analysis.pdf](./English_Exam_Practice_System_Business_and_System_Analysis.pdf) | Contains system requirements, design specifications, user role analysis, academic workflows, real-time analytics architecture, and test validation strategies. |
+| **Business & System Analysis** | [📄 English_Exam_Practice_System_Business_and_System_Analysis.pdf]([./English_Exam_Practice_System_Business_and_System_Analysis.pdf](https://drive.google.com/file/d/1RYXHV0A6gImSdJOMsg3x6WMH4IKzV4R_/view?usp=sharing)) | Contains system requirements, design specifications, user role analysis, academic workflows, real-time analytics architecture, and test validation strategies. |
 
 
 
